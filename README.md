@@ -395,8 +395,8 @@
         <div class="photopile-wrapper col-xs-12 text-center" data-anijs="if: scroll, on: window, do: rollIn animated, before: $scrollReveal repeat">
             <ul class="photopile col-xs-12">
                 <li>
-                    <a href="images/p1.jpg">
-                    <img src="images/p1.jpg" alt="ảnh kỷ niệm" />
+                    <a href="file:///C:/Users/User/Downloads/%E1%BA%A3nh-1.pdf">
+                    <img src="file:///C:/Users/User/Downloads/%E1%BA%A3nh-1.pdf" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
@@ -446,7 +446,7 @@
                 </li>
             </ul>
         </div>
-        <p class="text-center" style="font-size: 10px">Developer by Dược Nv</p>
+        <p class="text-center" style="font-size: 10px">made by cc của bố with love <3</p>
 
 
         <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
