@@ -400,8 +400,8 @@
                     </a>
                 </li>
                 <li>
-                    <a href="images/p2.jpg">
-                    <img src="images/p2.jpg" alt="ảnh kỷ niệm" />
+                    <a href="img_girl.jpg">
+                    <img src="img_girl.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
