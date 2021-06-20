@@ -395,8 +395,8 @@
         <div class="photopile-wrapper col-xs-12 text-center" data-anijs="if: scroll, on: window, do: rollIn animated, before: $scrollReveal repeat">
             <ul class="photopile col-xs-12">
                 <li>
-                    <a href="file:///C:/Users/User/Downloads/%E1%BA%A3nh-1.pdf">
-                    <img src="file:///C:/Users/User/Downloads/%E1%BA%A3nh-1.pdf" alt="ảnh kỷ niệm" />
+                    <a href="file:///C:/Users/User/AppData/Local/Temp/Rar$EXb19864.13108/template_tan_gai/images/x10.png">
+                    <img src="file:///C:/Users/User/AppData/Local/Temp/Rar$EXb19864.13108/template_tan_gai/images/x10.png" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
