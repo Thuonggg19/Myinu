@@ -26,7 +26,7 @@
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation" data-anijs="if: mouseover, do: bounceIn animated" style="background-color: #f99ec7 !important;box-shadow: 0 0 2px 0 #acacac;">
             <img class="pull-left" style="display: inline-block !important;margin: 10px 25px 10px 60px" src="images/logo.png" title="">
             <div class="col-xs-8 text-center txt" data-bind="" style="font-family: 'Lobster', cursive;">
-                Ở bên em là lời tỏ tình lâu dài nhất. Dù già hay ốm, anh vẫn sẽ sẵn sàng ở bên em!
+                Ở bên anh là lời tỏ tình lâu dài nhất. Dù già hay ốm, em vẫn sẽ sẵn sàng ở bên anh <3!
             </div>
         </nav>
         <div class="container-fluid" style="margin-top: 88px">
@@ -104,7 +104,7 @@
                                         <div class="timeline-body">
                                             <div>
                                                 <div>
-                                                    <p class="txtcolor" style="font-family: 'Srisakdi', cursive;">Anh không biết sẽ nói với em như thế nào, Anh chỉ muốn nói Anh ❤ Em nhiều lắm!</p>
+                                                    <p class="txtcolor" style="font-family: 'Srisakdi', cursive;">Em không biết sẽ nói với anh như thế nào, Em chỉ muốn nói Em ❤ Anh nhiều lắm!</p>
                                                 </div>
                                             </div>
                                         </div>
